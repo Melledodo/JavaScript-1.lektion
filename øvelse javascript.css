@@ -3,3 +3,8 @@
     height: auto;
     width: auto;
 }
+img{
+    border: 1px solid #ddd;
+    padding: 4px;
+    width: 150px;
+}
